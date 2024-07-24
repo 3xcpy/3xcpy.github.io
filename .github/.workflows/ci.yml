@@ -25,5 +25,5 @@ jobs:
         uses: jonchang/deploy-neocities@master
         with:
           key: ${{ secrets.NEOCITIES_API_KEY }}
-          dir: root
+          dir: .
           clean: true
