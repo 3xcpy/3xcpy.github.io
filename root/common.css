@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+
+    font-family: monospace;
+    font-size: large;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+}
